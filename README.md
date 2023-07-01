@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/foulenzer)\
 [VirusTotal](https://www.virustotal.com/gui/user/Intel_foulenzer)\
 [Threatfox](https://threatfox.abuse.ch/user/2616/)\
-[Alienvault OTX](https://otx.alienvault.com/user/foulenzer/pulses)\
+[Alienvault OTX](https://otx.alienvault.com/user/foulenzer/pulses)
 
 
 # 💻 Tech Stack:
